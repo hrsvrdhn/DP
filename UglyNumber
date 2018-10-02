@@ -1,4 +1,4 @@
-//Java program to find nth ugly number divisible by 2,3 and 
+//Java program to find nth ugly number, number divisible by 2,3 and 5 only
 import java.lang.Math; 
   
 class UglyNumber 
